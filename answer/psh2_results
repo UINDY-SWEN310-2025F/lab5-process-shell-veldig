@@ -1,0 +1,56 @@
+Script started on Fri Sep 26 09:50:46 2025
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[Jmartinvizcaino@Martins-MacBook-Air-4 lab5-process-shell-veldig % [K[?2004h[7m./psh2[27m[27m.[27m/[27mp[27ms[27mh[27m2[?2004l
+Arg[0]? ls
+Arg[1]? -l
+Arg[2]? 
+total 1472
+drwxr-xr-x  3 martinvizcaino  staff      96 Sep 26 08:26 answer
+-rw-r--r--  1 martinvizcaino  staff     464 Sep 26 08:26 clean_all.sh
+-rwxr-xr-x  1 martinvizcaino  staff     855 Sep 26 08:26 clean_start.sh
+drwxr-xr-x  4 martinvizcaino  staff     128 Sep 26 08:26 demo
+-rw-r--r--  1 martinvizcaino  staff     540 Sep 26 08:26 Dockerfile
+-rwxr-xr-x  1 martinvizcaino  staff   33736 Sep 26 09:23 fork
+-rw-r--r--  1 martinvizcaino  staff     657 Sep 26 09:23 fork.c
+-rw-r--r--  1 martinvizcaino  staff  586830 Sep 26 08:26 Lab05_2025F.pdf
+-rw-r--r--  1 martinvizcaino  staff   11357 Sep 26 08:26 LICENSE
+-rw-r--r--  1 martinvizcaino  staff     345 Sep 26 08:26 Makefile
+-rwxr-xr-x  1 martinvizcaino  staff     244 Sep 26 09:00 myps.sh
+-rwxr-xr-x  1 martinvizcaino  staff   34328 Sep 26 09:50 psh1
+-rw-r--r--  1 martinvizcaino  staff    1692 Sep 26 09:41 psh1.c
+-rwxr-xr-x  1 martinvizcaino  staff   34312 Sep 26 09:48 psh2
+-rw-r--r--  1 martinvizcaino  staff      43 Sep 26 09:50 psh2_results
+-rw-r--r--  1 martinvizcaino  staff    2548 Sep 26 09:46 psh2.c
+-rw-r--r--  1 martinvizcaino  staff     392 Sep 26 08:26 README.md
+drwxr-xr-x  5 martinvizcaino  staff     160 Sep 26 08:26 script_test
+drwxr-xr-x  2 martinvizcaino  staff      64 Sep 26 08:30 share
+drwxr-xr-x  5 martinvizcaino  staff     160 Sep 26 08:26 tests
+child exited with status 0,0
+Arg[0]? df
+Arg[1]? -H
+Arg[2]? 
+Filesystem                                                Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1                                            245G     12G     11G    52%    426k  105M    0%   /
+devfs                                                     410k    410k      0B   100%    1.4k     0  100%   /dev
+/dev/disk3s6                                              245G   5370M     11G    34%       5  105M    0%   /System/Volumes/VM
+/dev/disk3s2                                              245G     14G     11G    58%    1.8k  105M    0%   /System/Volumes/Preboot
+/dev/disk3s4                                              245G    712M     11G     7%     301  105M    0%   /System/Volumes/Update
+/dev/disk2s2                                              524M   6312k    506M     2%       3  4.9M    0%   /System/Volumes/xarts
+/dev/disk2s1                                              524M   5837k    506M     2%      37  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk2s3                                              524M   1266k    506M     1%      46  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5                                              245G    200G     11G    95%    1.8M  105M    2%   /System/Volumes/Data
+map auto_home                                               0B      0B      0B   100%       0     0     -   /System/Volumes/Data/home
+/dev/disk1s1                                             5369M   1979M   3368M    38%      58   33M    0%   /System/Volumes/Update/SFR/mnt1
+/dev/disk5s1                                               17G     17G    482M    98%    521k  4.7M   10%   /Library/Developer/CoreSimulator/Volumes/iOS_21E213
+/dev/disk7s1                                             9316M   8990M    297M    97%    222k  2.9M    7%   /Library/Developer/CoreSimulator/Volumes/tvOS_21L224
+/dev/disk9s1                                               10G     10G    320M    97%    340k  3.1M   10%   /Library/Developer/CoreSimulator/Volumes/watchOS_21T214
+/dev/disk11s1                                            9129M   8837M    263M    98%      13  2.6M    0%   /Library/Developer/CoreSimulator/Cryptex/Images/bundle/SimRuntimeBundle-58E4B45C-79C7-4216-9586-7E58C147DDB4
+/dev/disk13s1                                              21G     20G    519M    98%    559k  5.1M   10%   /Library/Developer/CoreSimulator/Volumes/iOS_22F77
+/dev/disk15s1                                              16G     15G    434M    98%    192k  4.2M    4%   /Library/Developer/CoreSimulator/Volumes/xrOS_21O209
+/dev/disk16s1                                             100M     72M     28M    72%    1.1k  4.3G    0%   /Volumes/BuhoCleaner
+/Users/martinvizcaino/Downloads/Visual Studio Code.app    245G    187G     26G    88%    1.8M  257M    1%   /private/var/folders/xl/2hz6wq8d5zbfwqpn1yx0ctv40000gn/T/AppTranslocation/60047A52-51F8-43F7-972B-1A3471924736
+/dev/disk3s1                                              245G     12G     11G    52%    426k  105M    0%   /System/Volumes/Update/mnt1
+child exited with status 0,0
+Arg[0]? ^C
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[Jmartinvizcaino@Martins-MacBook-Air-4 lab5-process-shell-veldig % [K[?2004heexit[?2004l
+
+Script done on Fri Sep 26 09:53:46 2025

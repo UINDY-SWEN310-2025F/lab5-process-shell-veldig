@@ -1,1 +1,1 @@
-put your answers here
+I prefer the psh2.c version. It is better because the parent process waits for the child to finish before moving on, and it also shows the child’s exit status. This makes the shell more reliable and easier to understand what happened when a command finishes.
